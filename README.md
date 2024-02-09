@@ -1,6 +1,6 @@
 # Kubernetes Handbook Projects
 
-![...](./kubernetes-handbook-github.png)
+
 
 | :bell: NOTIFICATION |
 |:--------------------|
